@@ -1,6 +1,5 @@
 ## Hi there 👋
-## Currently studying Node.js and Git
-
+## BSIT Student
 <!--
 **elli1216/elli1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
