@@ -57,9 +57,11 @@
 
 #### 📸 [Tic-a-Pic](https://tic-a-pic.vercel.app/)
 > A fun, interactive photo booth web app built with modern frontend technologies.  
-> 🌐 **Live Demo**: [https://tic-a-pic.vercel.app/](https://tic-a-pic.vercel.app/)  
+> 🌐 **Live Demo**: [https://tic-a-pic.vercel.app/](https://tic-a-pic.vercel.app/)
 > 🛠️ Built with: Next.js, Tailwind CSS, Supabase (PostgreSQL)
 > 📸 Allows users to take photos directly from their browser, save them, and share — great for digital engagement.
+> 
+> ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
 ---
 
@@ -68,6 +70,8 @@
 > 📂 **GitHub Repo**: [https://github.com/elli1216/CiConnect](https://github.com/elli1216/CiConnect)  
 > 🏗️ **Tech Stack**: React, Express.js, Node.js, Supabase (PostgreSQL), Tailwind CSS  
 > ✅ Features landing page with complaint form, admin dashboard, real-time status updates, and secure data handling.
+> 
+> ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
 ---
 
