@@ -5,7 +5,7 @@
 
 <h1 align="center">Darl Ellison Floresca</h1>
 <p align="center">
-  Full-Stack Developer | BSIT Student | Marilao, Bulacan, Philippines
+  Web Developer | BSIT Student | Marilao, Bulacan, Philippines
 </p>
 
 ---
@@ -67,7 +67,7 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 
 #### [CiConnect – Grievance Management System](https://github.com/elli1216/CiConnect)
 > Our **capstone project** is designed to streamline complaint submission and tracking for institutions.  
-> 📂 **GitHub Repo**: [https://github.com/elli1216/CiConnect](https://github.com/elli1216/CiConnect)  
+> 🌐 **Live Site**: [https://www.osascomplaints.dev/](https://www.osascomplaints.dev/)
 > 🏗️ **Tech Stack**: React, Express.js, Node.js, Supabase (PostgreSQL), Tailwind CSS  
 > ✅ Features landing page with complaint form, admin dashboard, real-time status updates, and secure data handling.  
 > 
