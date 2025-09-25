@@ -37,10 +37,12 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Tools & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-blue?style=flat&color=lightgrey)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -49,7 +51,6 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 ### 📘 Currently Learning
 - **Next.js** – Deepening understanding of server-side rendering, API routes, and hybrid static/dynamic rendering
 - **PostgreSQL** – Improving schema design, query optimization, and relational modeling
-- **Java Swing & MVC** – Building desktop applications with proper separation of concerns
 
 ---
 
@@ -57,11 +58,11 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 
 #### [BulSU OSAS Complaint and Grievance Portal](https://www.osascomplaints.dev/)
 > Our **capstone project** is designed to streamline complaint submission and tracking for institutions.  
-> 🌐 **Live Site**: [https://www.osascomplaints.dev/](https://www.osascomplaints.dev/)
+> 🌐 **Live Site**: [https://www.osascomplaints.dev/](https://www.osascomplaints.dev/)  
 > 🏗️ **Tech Stack**: React, Express.js, Node.js, Supabase (PostgreSQL), Tailwind CSS  
 > ✅ Features landing page with complaint form, admin dashboard, real-time status updates, and secure data handling.  
 > 
-> ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+> ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 
 ---
 
@@ -75,6 +76,24 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 
 ---
 
+#### [Bytebazaar](https://github.com/elli1216/Bytebazaar)
+> A tech e-commerce platform for buying and browsing gadgets and accessories.  
+> 📂 **GitHub Repo**: [github.com/elli1216/Bytebazaar](https://github.com/elli1216/Bytebazaar)  
+> 🛒 **Features**: Product catalog, cart system, checkout flow, product management
+> 🧰 **Stack**: React, Tailwind CSS, Node.js, Express.js, XML (data storage/mock backend)  
+> 💡 Built as a full-stack practice project focusing on UI/UX and RESTful API integration.
+
+---
+
+#### [School Enrollment System](https://github.com/elli1216/School-Enrollment-System)
+> A desktop-based enrollment management system for schools with multi-role access.  
+> 📂 **GitHub Repo**: [github.com/elli1216/School-Enrollment-System](https://github.com/elli1216/School-Enrollment-System)  
+> 👥 Roles: Student, Faculty, Admin  
+> 🏗️ **Tech Stack**: Java, Java Swing (GUI), MySQL, MVC Architecture  
+> ✅ Features course registration, enrollment tracking, user authentication, and report generation.
+
+---
+
 ### 🔗 Connect With Me
 <div align="left">
   <a href="https://linkedin.com/in/darl-floresca" target="_blank">
@@ -84,4 +103,4 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 
 Open to collaboration on full-stack web projects and learning initiatives.
 
----
+> *"The best way to predict the future is to create it."* – Peter Drucker
