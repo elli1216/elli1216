@@ -55,21 +55,21 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 
 ### 🎯 Featured Projects
 
-#### [Tic-a-Pic](https://tic-a-pic.vercel.app/)
-> A fun, interactive photo booth web app built with modern frontend technologies.  
-> 🌐 **Live Demo**: [https://tic-a-pic.vercel.app/](https://tic-a-pic.vercel.app/)  
-> 🛠️ **Built with**: Next.js, Tailwind CSS, Supabase (PostgreSQL)  
-> 📸 Allows users to take photos directly from their browser, save them, and share — great for digital engagement.  
+#### [BulSU OSAS Complaint and Grievance Portal](https://www.osascomplaints.dev/)
+> Our **capstone project** is designed to streamline complaint submission and tracking for institutions.  
+> 🌐 **Live Site**: [https://www.osascomplaints.dev/](https://www.osascomplaints.dev/)
+> 🏗️ **Tech Stack**: React, Express.js, Node.js, Supabase (PostgreSQL), Tailwind CSS  
+> ✅ Features landing page with complaint form, admin dashboard, real-time status updates, and secure data handling.  
 > 
 > ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
 ---
 
-#### [CiConnect – Grievance Management System](https://github.com/elli1216/CiConnect)
-> Our **capstone project** is designed to streamline complaint submission and tracking for institutions.  
-> 🌐 **Live Site**: [https://www.osascomplaints.dev/](https://www.osascomplaints.dev/)
-> 🏗️ **Tech Stack**: React, Express.js, Node.js, Supabase (PostgreSQL), Tailwind CSS  
-> ✅ Features landing page with complaint form, admin dashboard, real-time status updates, and secure data handling.  
+#### [Tic-a-Pic](https://tic-a-pic.vercel.app/)
+> A fun, interactive photo booth web app built with modern frontend technologies.  
+> 🌐 **Live Demo**: [https://tic-a-pic.vercel.app/](https://tic-a-pic.vercel.app/)  
+> 🛠️ **Built with**: Next.js, Tailwind CSS, Supabase (PostgreSQL)  
+> 📸 Allows users to take photos directly from their browser, save them, and share — great for digital engagement.  
 > 
 > ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
@@ -85,5 +85,3 @@ Exploring AI-powered tools like **Cursor** and **Claude Code** to improve develo
 Open to collaboration on full-stack web projects and learning initiatives.
 
 ---
-
-> *"The best way to predict the future is to create it."* – Peter Drucker
