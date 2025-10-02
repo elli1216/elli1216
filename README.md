@@ -10,97 +10,75 @@
 
 ---
 
-### 📌 Overview
-Self-taught developer passionate about building practical web applications using modern technologies. Currently enhancing full-stack skills through academic projects and personal development.
+<div align="center">
 
-📍 Based in the Philippines  
-🎓 Bachelor of Science in Information Technology (BSIT) student  
-🔧 Focused on clean code, real-world problem solving, and continuous learning
+### 💼 Tech Stack  
 
-Exploring AI-powered tools like **Cursor** and **Claude Code** to improve development workflows and productivity.
-
----
-
-### 💼 Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Tools & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white)
-![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-blue?style=flat&color=lightgrey)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 🚀 Frontend  
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" height="50">
+</p>
 
 ---
 
-### 📘 Currently Learning
-- **Next.js** – Deepening understanding of server-side rendering, API routes, and hybrid static/dynamic rendering
-- **PostgreSQL** – Improving schema design, query optimization, and relational modeling
+#### ⚙️ Backend & Database  
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="50">
+</p>
 
 ---
 
-### 🎯 Featured Projects
-
-#### [BulSU OSAS Complaint and Grievance Portal](https://www.osascomplaints.dev/)
-> Our **capstone project** is designed to streamline complaint submission and tracking for institutions.  
-> 🌐 **Live Site**: [https://www.osascomplaints.dev/](https://www.osascomplaints.dev/)  
-> 🏗️ **Tech Stack**: React, Express.js, Node.js, Supabase (PostgreSQL), Tailwind CSS  
-> ✅ Features landing page with complaint form, admin dashboard, real-time status updates, and secure data handling.  
-> 
-> ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
-
----
-
-#### [Tic-a-Pic](https://tic-a-pic.vercel.app/)
-> A fun, interactive photo booth web app built with modern frontend technologies.  
-> 🌐 **Live Demo**: [https://tic-a-pic.vercel.app/](https://tic-a-pic.vercel.app/)  
-> 🛠️ **Built with**: Next.js, Tailwind CSS, Supabase (PostgreSQL)  
-> 📸 Allows users to take photos directly from their browser, save them, and share — great for digital engagement.  
-> 
-> ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+#### 🛠️ Tools & Others  
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" height="50">
+</p>
 
 ---
 
-#### [Bytebazaar](https://github.com/elli1216/Bytebazaar)
-> A tech e-commerce platform for buying and browsing gadgets and accessories.  
-> 📂 **GitHub Repo**: [github.com/elli1216/Bytebazaar](https://github.com/elli1216/Bytebazaar)  
-> 🛒 **Features**: Product catalog, cart system, checkout flow, product management
-> 🧰 **Stack**: React, Tailwind CSS, Node.js, Express.js, XML (data storage/mock backend)  
-> 💡 Built as a full-stack practice project focusing on UI/UX and RESTful API integration.
+### 📘 Currently Learning  
+**Next.js** – Deepening understanding of server-side rendering, API routes, and hybrid static/dynamic rendering  
+**PostgreSQL** – Improving schema design, query optimization, and relational modeling  
 
 ---
 
-#### [School Enrollment System](https://github.com/elli1216/School-Enrollment-System)
-> A desktop-based enrollment management system for schools with multi-role access.  
-> 📂 **GitHub Repo**: [github.com/elli1216/School-Enrollment-System](https://github.com/elli1216/School-Enrollment-System)  
-> 👥 Roles: Student, Faculty, Admin  
-> 🏗️ **Tech Stack**: Java, Java Swing (GUI), MySQL, MVC Architecture  
-> ✅ Features course registration, enrollment tracking, user authentication, and report generation.
+### 📊 GitHub Stats  
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=elli1216&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elli1216&theme=tokyonight" height="150" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elli1216&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
-### 🔗 Connect With Me
-<div align="left">
-  <a href="https://linkedin.com/in/darl-floresca" target="_blank">
+### 🔗 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/darlfloresca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+Open to collaboration on full-stack web projects and learning initiatives.  
+
+> *"The best way to predict the future is to create it."* – Peter Drucker  
+
 </div>
-
-Open to collaboration on full-stack web projects and learning initiatives.
-
-> *"The best way to predict the future is to create it."* – Peter Drucker
