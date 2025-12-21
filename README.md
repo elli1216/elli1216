@@ -3,16 +3,23 @@
   Minimalist. Professional. Developer-focused.
 -->
 
-<h1 align="center">Darl Ellison Floresca</h1>
-<p align="center">
-  Web Developer | BSIT Student | Marilao, Bulacan, Philippines
-</p>
+<div align="center" style="width: fit-content;">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RpeHZreWw3bnV4d3RnbjY4ZGY5eTh4MXM4bHhnbDQ4czE2anJ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+</div>
+
+<div>
+  <h1 align="center">Darl Ellison Floresca</h1>
+  <p align="center">
+    Web Developer | BSIT Student | Marilao, Bulacan, Philippines
+  </p>
+</div>
+
 
 ---
 
 <div align="center">
 
-### Tech Stack  
+### Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,19 +35,6 @@
 
 ---
 
-### GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=elli1216&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elli1216&theme=tokyonight" height="150" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elli1216&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/darlfloresca/" target="_blank">
@@ -53,6 +47,11 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
 </p>
+
+---
+
+### My Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elli1216&show_icons=true&locale=en" alt="elli1216" /></p>
 
 Open to collaboration on full-stack web projects and learning initiatives.  
 
