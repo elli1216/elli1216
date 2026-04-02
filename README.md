@@ -29,12 +29,6 @@
 
 ---
 
-### Currently Learning  
-**Next.js** – Deepening understanding of server-side rendering, API routes, and hybrid static/dynamic rendering  
-**PostgreSQL** – Improving schema design, query optimization, and relational modeling  
-
----
-
 ### Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/darlfloresca/" target="_blank">
