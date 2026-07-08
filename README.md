@@ -10,7 +10,7 @@
 <div>
   <h1 align="center">Darl Ellison Floresca</h1>
   <p align="center">
-    Web Developer | BSIT Student | Marilao, Bulacan, Philippines
+    Web Developer | BSIT Graduate | Marilao, Bulacan, Philippines
   </p>
 </div>
 
